@@ -8,7 +8,7 @@ $ go get github.com/innotechdevops/influx-driver
 
 ## How to use
 
-- Wtih env
+- With env
 
 ```golang
 driver := influxdriver.New(influxdriver.ConfigEnv())
